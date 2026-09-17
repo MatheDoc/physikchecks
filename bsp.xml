@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-01</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Was ist eine zentrale Zielsetzung des MILLIKAN-Versuchs?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Die Bestimmung der elektrischen Elementarladung</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Bestimmung der Lichtgeschwindigkeit</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Im MILLIKAN-Versuch geht es nicht um die Lichtgeschwindigkeit.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Bestimmung der Gravitationskonstanten</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Gravitationskonstante ist nicht das Ziel dieses Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Bestimmung der Elektronenmasse</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Im Mittelpunkt steht die Bestimmung der Elementarladung, nicht der Elektronenmasse.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-02</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Welche weitere wichtige Erkenntnis soll mit dem MILLIKAN-Versuch gewonnen werden?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Der Nachweis der Ladungsquantelung</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Nachweis der Quantelung der Masse</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Im Versuch wird die Ladung betrachtet, nicht eine Quantelung der Masse.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Nachweis der Quantelung der Geschwindigkeit</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Geschwindigkeit ist im Versuch eine messbare Größe, aber nicht quantisiert.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Nachweis der Quantelung der Temperatur</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Temperatur wird nicht als quantisierte Größe untersucht.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-03</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Warum ist der MILLIKAN-Versuch für die Physik von besonderer historischer Bedeutung?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Er lieferte einen wichtigen experimentellen Zugang zur elektrischen Elementarladung und zur Ladungsquantelung.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Er bewies erstmals die Existenz des Gravitationsfeldes.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Das Gravitationsfeld war lange vor dem MILLIKAN-Versuch bekannt.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Er führte erstmals zur Entdeckung elektromagnetischer Wellen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Elektromagnetische Wellen wurden nicht durch den MILLIKAN-Versuch entdeckt.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Er bestimmte erstmals die Ausbreitungsgeschwindigkeit des Lichts.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Lichtgeschwindigkeit ist nicht Gegenstand des MILLIKAN-Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-04</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Welche Aussage beschreibt die grundlegende Idee des MILLIKAN-Versuchs am besten?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Die Bewegung elektrisch geladener Öltröpfchen wird beobachtet, um aus ihrem Verhalten auf ihre Ladung zu schließen.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Öltröpfchen werden erhitzt, um ihre Temperatur zu bestimmen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Temperatur der Tröpfchen ist nicht die zentrale Untersuchungsgröße.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Öltröpfchen werden gewogen, um ihre Dichte direkt zu messen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Bewegung der Tröpfchen ist entscheidend für die Bestimmung ihrer Ladung.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Die Öltröpfchen werden beschleunigt, um ihre Lichtemission zu untersuchen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Eine Untersuchung von Lichtemission ist nicht die Grundidee des Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-05</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Welche Art von Teilchen bzw. Objekten wird im MILLIKAN-Versuch beobachtet?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Sehr kleine Öltröpfchen</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Elektronen als einzelne sichtbare Teilchen</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Elektronen werden nicht als einzelne sichtbare Teilchen direkt beobachtet.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Wassertropfen im Vakuum</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Im beschriebenen Versuch werden Öltröpfchen und keine Wassertropfen verwendet.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Lichtteilchen in einem optischen Resonator</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Photonen sind nicht die beobachteten Objekte des Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-06</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Warum eignen sich die Öltröpfchen als Untersuchungsobjekte?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Ihre Bewegung kann im Raum zwischen zwei Platten beobachtet und durch ein elektrisches Feld beeinflusst werden.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Weil Öltröpfchen selbst Licht aussenden.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Lichtemission der Öltröpfchen ist nicht die Grundlage des Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Weil Öltröpfchen immer elektrisch neutral sind.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Tröpfchen können elektrisch geladen sein.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Weil Öltröpfchen im elektrischen Feld grundsätzlich unbeweglich bleiben.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Gerade die Beeinflussung ihrer Bewegung durch das elektrische Feld ist zentral.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-07</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Welche Rolle spielt das elektrische Feld bei der grundlegenden Idee des Versuchs?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Es ermöglicht, die Bewegung eines geladenen Öltröpfchens gezielt zu beeinflussen.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Es macht die Öltröpfchen sichtbar.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Für die Beobachtung wird im Aufbau eine Lampe und ein Mikroskop verwendet.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Es verhindert jede Bewegung der Öltröpfchen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Das elektrische Feld kann die Bewegung geladener Tröpfchen beeinflussen.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Es verändert die Dichte der Luft zwischen den Platten.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Eine Änderung der Luftdichte ist nicht die grundlegende Funktion des elektrischen Feldes.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-08</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Was lässt sich aus der Ladung eines Öltröpfchens im Zusammenhang mit der Ladungsquantelung untersuchen?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Ob elektrische Ladungen in bestimmten diskreten Werten auftreten.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Ob elektrische Ladungen beliebige Werte ohne Einschränkung annehmen.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Gerade die mögliche Diskretheit der Ladungswerte ist ein zentrales Ergebnis.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Ob die Masse aller Öltröpfchen gleich groß ist.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Massen der Öltröpfchen sind nicht notwendigerweise gleich.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Ob die Geschwindigkeit des Lichts von der Tröpfchengröße abhängt.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Lichtgeschwindigkeit ist hier nicht die Untersuchungsgröße.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-09</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Nach wem ist der MILLIKAN-Versuch benannt?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Robert Andrews Millikan</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>George Gabriel Stokes</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Stokes ist im Versuch über das nach ihm benannte Reibungsgesetz relevant.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Ebenezer Cunningham</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Cunningham ist im Zusammenhang mit der Cunningham-Korrektur relevant.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Isaac Newton</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Newton ist für die klassische Mechanik von Bedeutung, aber der Versuch ist nicht nach ihm benannt.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan__grundidee-historische-bedeutung__01-10</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ <p>Welche Aussage fasst die Bedeutung des MILLIKAN-Versuchs im Physikunterricht besonders passend zusammen?</p> ]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html"><text/></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text><![CDATA[ <p>Die Antwort ist richtig.</p> ]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist teilweise richtig.</p> ]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[ <p>Die Antwort ist falsch.</p> ]]></text></incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ <p>Der Versuch verbindet eine beobachtbare Bewegung von Öltröpfchen mit einer grundlegenden Eigenschaft elektrischer Ladung.</p> ]]></text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Versuch zeigt ausschließlich die Wirkung der Gravitation.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Gravitation spielt eine Rolle, ist aber nicht der alleinige Gegenstand des Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Versuch dient ausschließlich zur Untersuchung der Lichtausbreitung.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Lichtausbreitung ist nicht Gegenstand des MILLIKAN-Versuchs.</p> ]]>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ <p>Der Versuch untersucht ausschließlich die Temperaturabhängigkeit von Öl.</p> ]]></text>
+      <feedback format="html">
+        <![CDATA[ <p>Die Temperaturabhängigkeit von Öl ist nicht die zentrale Fragestellung.</p> ]]>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

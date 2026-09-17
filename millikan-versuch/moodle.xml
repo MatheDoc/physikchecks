@@ -1,0 +1,3748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/01 Grundidee und historische Bedeutung</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Größe wurde mit dem Millikan-Versuch bestimmt?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Aus den Tröpfchenladungen lässt sich die elektrische Elementarladung bestimmen, nicht unmittelbar die Elektronenmasse.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die elektrische Elementarladung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Masse eines Elektrons</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die elektrische Feldkonstante</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der elektrische Widerstand von Öl</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Aussage über elektrische Ladung wird durch den Millikan-Versuch gestützt?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Tröpfchenladungen sind ganzzahlige Vielfache einer gemeinsamen Ladungseinheit. Das bezeichnet man als Ladungsquantelung.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Tröpfchenladungen treten in diskreten Vielfachen einer Ladungseinheit auf.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Alle geladenen Tröpfchen besitzen dieselbe Ladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tröpfchenladungen können jeden beliebigen Zwischenwert annehmen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Elektrische Ladung ist immer positiv.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Objekte werden beim Millikan-Versuch mit dem Mikroskop beobachtet?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beobachtet werden kleine Öltröpfchen. Die einzelnen Elektronen auf ihnen sind dabei nicht sichtbar.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Kleine Öltröpfchen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Einzelne Elektronen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Einzelne Protonen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Einzelne Luftmoleküle</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Wie erhält man beim Millikan-Versuch die Ladung eines Tröpfchens?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Ladung wird indirekt aus der Bewegung beziehungsweise dem Kräftegleichgewicht im bekannten elektrischen Feld bestimmt.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Man schließt aus seinem Verhalten im elektrischen Feld auf seine Ladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Man zählt sichtbare Elektronen auf seiner Oberfläche.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Man liest seine Ladung unmittelbar am Voltmeter ab.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Man bestimmt seine Ladung allein aus seiner Helligkeit.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Nach wem ist der Millikan-Versuch benannt?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Namensgeber ist Robert Andrews Millikan. Stokes und Cunningham sind mit der Beschreibung der Reibung verbunden.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Robert Andrews Millikan</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>George Gabriel Stokes</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ebenezer Cunningham</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Joseph John Thomson</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Warum untersucht man viele Tröpfchenladungen, um Ladungsquantelung nachzuweisen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Erst der Vergleich verschiedener Ladungen zeigt das Muster gemeinsamer Ladungsschritte. Ein einzelner Wert legt die Schrittweite nicht eindeutig fest.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Um gemeinsame Ladungsschritte in den Messwerten zu erkennen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Weil jedes Tröpfchen genau ein Elektron trägt</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Weil die Elementarladung von Tröpfchen zu Tröpfchen verschieden ist</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Um die Ladungen aller Tröpfchen gleich groß zu machen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Einheit gehört zur Elementarladung \(e\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Elementarladung ist eine elektrische Ladung und wird in Coulomb (C) angegeben. Volt ist die Einheit der Spannung.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Coulomb (C)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Volt (V)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ampere (A)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Joule (J)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Die Elementarladung \(e\) ist positiv definiert. Welche Ladung besitzt ein Elektron?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Ein Elektron trägt die Ladung \(-e\); \(e\) bezeichnet den positiven Betrag.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(-e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(+e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-2e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Das Verhältnis von Elektronenladung zu Elektronenmasse war bereits bekannt. Welche weitere Größe wurde durch die Bestimmung der Elementarladung zugänglich?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Kennt man den Ladungsbetrag und das Verhältnis von Ladungsbetrag zu Masse, lässt sich daraus die Elektronenmasse bestimmen.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Elektronenmasse</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der Elektronenradius</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Protonenmasse</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Lichtgeschwindigkeit</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__grundidee-historische-bedeutung__01-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Historisch wurde \(e\) experimentell bestimmt. Wie ist sein Zahlenwert in Coulomb im heutigen SI festgelegt?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Seit der SI-Neudefinition 2019 ist der Zahlenwert von \(e\) in Coulomb exakt festgelegt. Ein Schulversuch bleibt eine Messung mit Unsicherheit.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Durch einen exakt festgelegten Wert</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Durch den jeweils neuesten Schulversuch</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Durch die Temperatur des verwendeten Öls</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Durch die eingestellte Kondensatorspannung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/02 Aufbau und Messgrößen</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Aufgabe haben die beiden Kondensatorplatten beim Millikan-Versuch?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die angelegte Spannung erzeugt zwischen den Platten ein näherungsweise homogenes elektrisches Feld.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sie erzeugen bei angelegter Spannung ein elektrisches Feld.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie erzeugen das Gewicht der Öltröpfchen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie vergrößern das Bild der Öltröpfchen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie messen direkt die Ladung jedes Tröpfchens.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Wozu wird der Raum zwischen den Platten beleuchtet?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Tröpfchen streuen das Licht der Lampe und werden dadurch im Mikroskop sichtbar.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Damit die Öltröpfchen im Mikroskop sichtbar werden</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Lampe die Tröpfchen in der Schwebe hält</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit das elektrische Feld eingeschaltet wird</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Luftreibung verschwindet</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Funktion hat der Zerstäuber?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Der Zerstäuber erzeugt kleine Öltröpfchen. Ein Teil der Tröpfchen ist nach dem Zerstäuben elektrisch geladen.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Er erzeugt kleine Öltröpfchen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er misst den Tröpfchenradius.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er entfernt die Luft zwischen den Platten.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er regelt den Abstand der Kondensatorplatten.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Größe liest man am Voltmeter des Millikan-Aufbaus ab?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Das Voltmeter misst die Spannung zwischen den Kondensatorplatten, nicht unmittelbar die Feldstärke oder Tröpfchenladung.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Spannung zwischen den Platten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Ladung eines Tröpfchens</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die elektrische Feldstärke zwischen den Platten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Geschwindigkeit eines Tröpfchens</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Beziehung liefert den Feldstärkebetrag \(E\) im homogenen Plattenfeld aus Spannungsbetrag \(U\) und Plattenabstand \(d\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Im homogenen Feld gilt \(E=U/d\). Die Einheit ist Volt pro Meter.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(E=U/d\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(E=U\cdot d\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(E=d/U\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(E=U/d^2\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Der Spannungsbetrag am Plattenkondensator wird verdoppelt. Der Plattenabstand bleibt gleich. Was geschieht mit dem Feldstärkebetrag im homogenen Bereich?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei festem Plattenabstand gilt \(E\propto U\). Die Feldstärke verdoppelt sich.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Er verdoppelt sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er halbiert sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er vervierfacht sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er bleibt unverändert.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen legt gleichförmig \(0{,}6\,\mathrm{mm}\) in \(3\,\mathrm{s}\) zurück. Wie groß ist seine Geschwindigkeit?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Mit \(v=s/t\) ergibt sich \(0{,}6/3=0{,}2\) in der Einheit Millimeter pro Sekunde.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(0{,}2\,\mathrm{mm/s}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(1{,}8\,\mathrm{mm/s}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(5\,\mathrm{mm/s}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0{,}02\,\mathrm{mm/s}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Skalenintervall entspricht real \(0{,}05\,\mathrm{mm}\). Welcher Strecke entsprechen vier solche Intervalle?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Vier Intervalle entsprechen \(4\cdot0{,}05\,\mathrm{mm}=0{,}20\,\mathrm{mm}\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(0{,}20\,\mathrm{mm}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0{,}0125\,\mathrm{mm}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0{,}15\,\mathrm{mm}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(2{,}0\,\mathrm{mm}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Das Mikroskop vertauscht oben und unten. Ein Tröpfchen bewegt sich im Bild nach oben. Wie bewegt es sich tatsächlich?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei einem umkehrenden Mikroskopbild entspricht eine Bewegung nach oben im Bild einer realen Bewegung nach unten.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nach unten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nach oben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Waagerecht</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es ruht.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__aufbau-messgroessen__02-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche direkt gemessenen Größen benötigt man, um die Geschwindigkeit eines Tröpfchens zu bestimmen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Geschwindigkeit erhält man aus der zurückgelegten Strecke und der dafür benötigten Zeit: \(v=s/t\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Messstrecke und Durchlaufzeit</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Spannung und Plattenabstand</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ladung und Spannung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tröpfchenmasse und Plattenabstand</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/03 Kräfte am Öltröpfchen</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Öltröpfchen steigt im elektrischen Feld nach oben. Wohin wirkt seine Gewichtskraft?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Gewichtskraft wirkt unabhängig von der Bewegungsrichtung nach unten zur Erde.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nach unten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nach oben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Waagerecht zur Seite</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie verschwindet beim Steigen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>In welche Richtung wirkt der Auftrieb der ruhenden Luft auf ein sinkendes Öltröpfchen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Der Auftrieb wirkt nach oben, entgegen der Gewichtskraft. Er entsteht durch den mit der Höhe abnehmenden Luftdruck.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nach oben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nach unten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Zur positiv geladenen Platte, unabhängig von ihrer Lage</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Zur negativ geladenen Platte, unabhängig von ihrer Lage</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Gewichtskraft \(F_G\) und Auftrieb \(F_A\) wirken entgegengesetzt, wobei \(F_G&gt;F_A\). Wie lautet der Betrag der reduzierten Gewichtskraft \(F'_G\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Der Auftrieb vermindert die nach unten wirkende Kraft: \(F'_G=F_G-F_A\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F'_G=F_G-F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F'_G=F_G+F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F'_G=F_A-F_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F'_G=F_G/F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Das elektrische Feld zeigt nach unten. Wohin wirkt die elektrische Kraft auf ein negativ geladenes Öltröpfchen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei negativer Ladung wirkt die elektrische Kraft entgegen der Feldrichtung, hier also nach oben.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nach oben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nach unten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Waagerecht zur Seite</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es wirkt keine elektrische Kraft.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Die Plattenspannung wird bei gleichem Betrag umgepolt. Die Tröpfchenladung bleibt unverändert. Was geschieht mit der elektrischen Kraft?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Umpolen kehrt sich das elektrische Feld um. Bei unveränderter Ladung und gleichem Feldstärkebetrag kehrt sich nur die Kraftrichtung um.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ihre Richtung kehrt sich um; ihr Betrag bleibt gleich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ihre Richtung bleibt gleich; ihr Betrag verdoppelt sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie verschwindet dauerhaft.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Richtung und Betrag bleiben gleich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Formel beschreibt den elektrischen Kraftbetrag auf ein Tröpfchen mit Ladung \(q\) im Feld mit Feldstärkebetrag \(E\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Für den Kraftbetrag gilt \(F_\mathrm{el}=|q|E\). Das Ladungsvorzeichen bestimmt die Richtung, nicht einen negativen Kraftbetrag.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=|q|E\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=|q|/E\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=E/|q|\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=|q|E^2\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Öltröpfchen steigt durch ruhende Luft nach oben. Wohin wirkt die Stokes-Reibungskraft?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Reibung wirkt der Bewegung relativ zur Luft entgegen. Beim Steigen durch ruhende Luft wirkt sie nach unten.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nach unten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nach oben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Immer in Richtung des elektrischen Feldes</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Immer entgegen der elektrischen Feldrichtung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Nach Stokes gilt \(F_R=6\pi\eta r v\). Nur der Geschwindigkeitsbetrag \(v\) wird verdoppelt. Wie verändert sich der Reibungskraftbetrag?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Im Stokes-Modell ist die Reibungskraft proportional zum Geschwindigkeitsbetrag, nicht zu dessen Quadrat.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Er verdoppelt sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er vervierfacht sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er halbiert sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Er bleibt gleich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Größe bezeichnet \(\eta\) im Stokes-Gesetz \(F_R=6\pi\eta r v\) für ein Tröpfchen in Luft?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>\(\eta\) ist die dynamische Viskosität, also die Zähigkeit der umgebenden Luft, nicht die des Öls.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die dynamische Viskosität der Luft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Dichte der Luft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die dynamische Viskosität des Öls</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Ladung des Tröpfchens</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__kraefte-am-oeltroepfchen__03-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen bewegt sich geradlinig mit konstanter Geschwindigkeit. Was gilt für die Summe aller auf das Tröpfchen wirkenden Kräfte?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Eine konstante Geschwindigkeit bedeutet keine Beschleunigung. Die Vektorsumme der Kräfte ist null, obwohl einzelne Kräfte wirken.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ihre Vektorsumme ist null.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie zeigt in Bewegungsrichtung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie zeigt entgegen der Bewegungsrichtung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ihr Betrag ist gleich dem Gewichtskraftbetrag.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/04 Feldfreies Fallen und Schweben</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen sinkt ohne elektrisches Feld gleichförmig durch ruhende Luft. Welche Beziehung gilt für die Kraftbeträge? \(F_R\): Reibung, \(F_G\): Gewicht, \(F_A\): Auftrieb.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim gleichförmigen Sinken gleichen Reibung und Auftrieb gemeinsam die Gewichtskraft aus: \(F_R+F_A=F_G\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_R=F_G-F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_R=F_G+F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_R=0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_R=F_A\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Messgröße ermöglicht im Stokes-Modell die Bestimmung des Tröpfchenradius, wenn Dichten und Luftviskosität bekannt sind?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Aus der konstanten feldfreien Sinkgeschwindigkeit folgt über das Gleichgewicht von reduzierter Gewichtskraft und Stokes-Reibung der Radius.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die konstante Sinkgeschwindigkeit ohne elektrisches Feld</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Ruhespannung der Beleuchtungslampe</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der Plattenabstand allein</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Höhe des Tröpfchens über der unteren Platte allein</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Im Stokes-Modell gilt für die feldfreie Endgeschwindigkeit bei gleichen Stoffdaten \(v\propto r^2\). Wie schnell sinkt ein Tröpfchen mit doppeltem Radius?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Der doppelte Radius ergibt wegen \(2^2=4\) den vierfachen Geschwindigkeitsbetrag. Die Cunningham-Korrektur ist in dieser Beziehung nicht enthalten.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Viermal so schnell</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Doppelt so schnell</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Achtmal so schnell</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Halb so schnell</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen schwebt in ruhender Luft. Brownsche Bewegung wird vernachlässigt. Wie groß ist seine Stokes-Reibungskraft?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Schweben ist die Geschwindigkeit relativ zur Luft null. Daher ist auch \(F_R=6\pi\eta r v=0\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Null</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>So groß wie die Gewichtskraft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>So groß wie die elektrische Kraft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>So groß wie Gewichtskraft und elektrische Kraft zusammen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen schwebt in ruhender Luft. Die elektrische Kraft wirkt nach oben. Welche Beziehung gilt für die Beträge mit \(F'_G=F_G-F_A\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Schweben gleicht die elektrische Kraft die reduzierte Gewichtskraft aus: \(F_\mathrm{el}=F'_G\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=2F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G/2\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Beim Schweben gilt \(|q|U/d=F'_G\). Welche Formel liefert den Ladungsbetrag? \(U\) ist der Spannungsbetrag, \(d\) der Plattenabstand.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Multiplikation mit \(d/U\) ergibt \(|q|=F'_Gd/U\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(|q|=F'_Gd/U\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(|q|=F'_GU/d\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(|q|=U/(F'_Gd)\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(|q|=F'_G/(Ud)\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein schwebendes Tröpfchen hat \(F'_G=3{,}2\cdot10^{-15}\,\mathrm{N}\). Der Feldstärkebetrag ist \(E=2\cdot10^4\,\mathrm{N/C}\). Wie groß ist \(|q|=F'_G/E\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Zahlenfaktoren ergeben \(3{,}2/2=1{,}6\), die Zehnerpotenzen \(10^{-15}/10^4=10^{-19}\). Somit ist \(|q|=1{,}6\cdot10^{-19}\,\mathrm{C}\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{-11}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(6{,}4\cdot10^{-11}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0{,}625\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen schwebt. Der Spannungsbetrag wird bei gleicher Polung erhöht; Ladung und Masse bleiben gleich. Die elektrische Kraft wirkt nach oben. Wie reagiert das Tröpfchen zunächst?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die elektrische Kraft wächst über die reduzierte Gewichtskraft hinaus. Die resultierende Kraft zeigt zunächst nach oben.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Es wird nach oben beschleunigt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es wird nach unten beschleunigt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es bleibt unverändert in Ruhe.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es wird waagerecht beschleunigt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Polung ermöglicht eine elektrische Kraft nach oben auf ein negativ geladenes Tröpfchen zwischen horizontalen Platten?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei positiver oberer und negativer unterer Platte zeigt das Feld nach unten. Auf das negative Tröpfchen wirkt die elektrische Kraft nach oben.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Oben positiv, unten negativ</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Oben negativ, unten positiv</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beide Platten ungeladen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beide Platten leitend miteinander verbunden</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__feldfreies-fallen-schweben__04-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Bei einem schwebenden Tröpfchen wird das elektrische Feld abgeschaltet. Es gilt \(F_G&gt;F_A\); die Luft ruht. Wie beginnt sich das Tröpfchen zu bewegen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Ohne elektrische Kraft bleibt zunächst eine resultierende Kraft nach unten. Erst mit zunehmender Sinkgeschwindigkeit wächst die entgegenwirkende Reibung.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Es wird zunächst nach unten beschleunigt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es bleibt wegen seiner Ladung in Ruhe.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es wird zunächst nach oben beschleunigt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es springt ohne Beschleunigung auf seine Endgeschwindigkeit.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/05 Steige-Sink-Methode</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Bei der Steige-Sink-Methode wird die Spannung nach dem Steigen bei gleichem Betrag umgepolt. Was unterscheidet das anschließende Sinken vom feldfreien Fallen?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Auch beim Sinken bleibt ein elektrisches Feld eingeschaltet. Nach dem Umpolen unterstützt die elektrische Kraft das Sinken.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Beim Sinken wirkt zusätzlich eine elektrische Kraft nach unten.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beim Sinken ist das elektrische Feld ausgeschaltet.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beim Sinken wirkt keine Gewichtskraft mehr.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beim Sinken verschwindet die Luftreibung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen steigt gleichförmig durch ruhende Luft. Welche Beziehung gilt für die Beträge der elektrischen Kraft \(F_\mathrm{el}\), der reduzierten Gewichtskraft \(F'_G\) und der Reibung \(F_R\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Steigen wirken reduzierte Gewichtskraft und Reibung nach unten. Die elektrische Kraft nach oben gleicht ihre Summe aus.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G+F_R\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}+F_R=F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}+F'_G=F_R\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Nach dem Umpolen sinkt ein Tröpfchen gleichförmig; die elektrische Kraft wirkt nach unten. Welche Betragsgleichung gilt? \(F'_G\): reduzierte Gewichtskraft, \(F_R\): Reibung.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Sinken wirkt die Reibung nach oben. Sie gleicht die Summe aus elektrischer Kraft und reduzierter Gewichtskraft aus.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_R=F'_G+F_\mathrm{el}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G+F_R\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F'_G=F_\mathrm{el}+F_R\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_R=F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dasselbe unveränderte Tröpfchen steigt und sinkt bei gleich großen, entgegengesetzten Feldern durch ruhende Luft. Welcher Geschwindigkeitsbetrag ist nach Erreichen der jeweiligen Endgeschwindigkeit größer?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Sinken unterstützt die reduzierte Gewichtskraft die elektrische Kraft, beim Steigen wirkt sie ihr entgegen. Daher ist der Sinkgeschwindigkeitsbetrag größer.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Der Betrag beim Sinken</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der Betrag beim Steigen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beide Beträge sind immer gleich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Beide Beträge sind null.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Bewegungsphase wird für die Kräftegleichgewichte der Steige-Sink-Methode ausgewertet?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Gleichgewichtsansätze gelten nach Abklingen der kurzen Beschleunigungsphase, wenn sich das Tröpfchen gleichförmig bewegt.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Phase mit konstanter Geschwindigkeit</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die kurze Beschleunigungsphase direkt nach dem Umpolen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der Aufprall auf eine Kondensatorplatte</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Der Austritt aus dem Zerstäuber</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Warum müssen Steige- und Sinkmessung zu demselben unveränderten Tröpfchen gehören?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beide Kräftegleichungen werden gemeinsam ausgewertet. Dafür müssen Radius, Masse und Ladung des untersuchten Tröpfchens gleich bleiben.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Damit beide Messungen dieselbe Masse, denselben Radius und dieselbe Ladung betreffen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit Steige- und Sinkgeschwindigkeit gleich groß sind</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Gewichtskraft beim Umpolen ihre Richtung ändert</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit das Tröpfchen beim Umpolen elektrisch neutral wird</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Es gelten \(b v_\mathrm{auf}=|q|E-F'_G\) und \(b v_\mathrm{ab}=|q|E+F'_G\), mit \(b=6\pi\eta r\) und positiven Geschwindigkeitsbeträgen. Welche Kombination beseitigt \(F'_G\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Beim Addieren heben sich \(-F'_G\) und \(+F'_G\) auf. Es folgt \(b(v_\mathrm{auf}+v_\mathrm{ab})=2|q|E\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die beiden Gleichungen addieren</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die beiden Gleichungen voneinander subtrahieren</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die beiden Gleichungen miteinander multiplizieren</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die beiden Gleichungen durcheinander dividieren</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ohne Cunningham-Korrektur gilt bei gleichen Stoffdaten \(r\propto\sqrt{v_\mathrm{ab}-v_\mathrm{auf}}\). Ein zweites Tröpfchen hat die vierfache Differenz der Geschwindigkeitsbeträge. Wie groß ist sein Radius im Vergleich?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Der Radius ist proportional zur Quadratwurzel der Geschwindigkeitsdifferenz. Die vierfache Differenz ergibt wegen \(\sqrt{4}=2\) den doppelten Radius.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Doppelt so groß</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Viermal so groß</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sechzehnmal so groß</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Halb so groß</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Einstellung muss beim Umpolen unverändert bleiben, damit die übliche Auswertung mit gleich großen entgegengesetzten Feldern gilt?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei unverändertem Plattenabstand muss der Spannungsbetrag gleich bleiben. Nur die Polung wird gewechselt.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Der Betrag der Plattenspannung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Richtung des elektrischen Feldes</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Richtung der elektrischen Kraft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Das Vorzeichen der Ladung auf der oberen Platte</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__steige-sink-methode__05-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen soll in ruhender Luft dauerhaft nach oben steigen. Welche Bedingung muss die nach oben gerichtete elektrische Kraft erfüllen? \(F'_G\) ist die reduzierte Gewichtskraft.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die elektrische Kraft muss größer als die reduzierte Gewichtskraft sein. Der Überschuss wird beim gleichförmigen Steigen durch die Reibung ausgeglichen.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}&gt;F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}&lt;F'_G\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(F_\mathrm{el}=0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/06 Ladungsquantelung und Auswertung</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welcher Wert entspricht näherungsweise der Elementarladung \(e\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Elementarladung beträgt gerundet \(1{,}6\cdot10^{-19}\,\mathrm{C}\). Der Wert \(9{,}1\cdot10^{-31}\) gehört näherungsweise zur Elektronenmasse in Kilogramm.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{-9}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(9{,}1\cdot10^{-31}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen besitzt drei Elektronen mehr als im neutralen Zustand. Welche Ladung hat es?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Jedes zusätzliche Elektron trägt \(-e\) bei. Drei zusätzliche Elektronen ergeben \(q=-3e\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(-3e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(+3e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-e/3\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen trägt die Ladung \(+2e\). Was bedeutet das gegenüber dem neutralen Zustand?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Eine positive Ladung entsteht hier durch Elektronenmangel: Es fehlen zwei Elektronen. Die Protonenzahl wird beim gewöhnlichen Aufladen nicht verändert.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Es fehlen zwei Elektronen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es besitzt zwei zusätzliche Elektronen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es fehlen zwei Protonen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Es besitzt insgesamt nur zwei Elektronen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen mit \(q=-2e\) nimmt ein weiteres Elektron auf. Welche Ladung hat es anschließend?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Aufnahme eines Elektrons verändert die Ladung um \(-e\): \(-2e-e=-3e\).</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(-3e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(+3e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-2e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein Tröpfchen trägt \(q=-2e\). Verwende \(e\approx1{,}6\cdot10^{-19}\,\mathrm{C}\). Welcher Ladungswert gehört dazu?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Es gilt \(q=-2\cdot1{,}6\cdot10^{-19}\,\mathrm{C}=-3{,}2\cdot10^{-19}\,\mathrm{C}\). Der Exponent bleibt beim Verdoppeln des Zahlenfaktors gleich.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(-3{,}2\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(+3{,}2\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-0{,}8\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-3{,}2\cdot10^{-38}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Der Ladungsbetrag eines Tröpfchens ist \(4{,}8\cdot10^{-19}\,\mathrm{C}\). Wie viele Elementarladungen sind das bei \(e\approx1{,}6\cdot10^{-19}\,\mathrm{C}\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Anzahl ist \(n=|q|/e=4{,}8/1{,}6=3\). Die gleichen Zehnerpotenzen kürzen sich.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>3</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>2</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>4,8</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>7,68</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche tatsächliche Tröpfchenladung passt nicht zur Ladungsquantelung \(q=n e\) mit ganzzahligem \(n\)? Messunsicherheiten sind hier ausgeschlossen.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Ein Öltröpfchen kann durch Elektronenaufnahme oder -abgabe nur ganzzahlige Vielfache von \(e\) tragen. \(1{,}5\) ist keine ganze Zahl.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(1{,}5e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(-2e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(+3e\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Idealisierte Ladungsbeträge sind \(3{,}2\), \(4{,}8\) und \(6{,}4\), jeweils in \(10^{-19}\,\mathrm{C}\). Welcher angebotene Wert ist die größte gemeinsame Ladungseinheit, deren ganzzahlige Vielfache alle drei Werte ergeben?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Werte sind das Zwei-, Drei- und Vierfache von \(1{,}6\cdot10^{-19}\,\mathrm{C}\). Auch kleinere Teiler wären mathematisch möglich; eine begrenzte Messreihe beweist die kleinste physikalische Ladungseinheit nicht allein.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>\(1{,}6\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(3{,}2\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(0{,}8\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>\(4{,}8\cdot10^{-19}\,\mathrm{C}\)</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ist der kleinste gemessene, von null verschiedene Ladungsbetrag einer kurzen Messreihe zwangsläufig gleich \(e\)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>In einer Messreihe können einfach geladene Tröpfchen fehlen. Der kleinste beobachtete Betrag kann deshalb beispielsweise \(2e\) oder \(3e\) sein.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Nein, auch der kleinste gemessene Ladungsbetrag kann ein Mehrfaches von \(e\) sein.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ja, der kleinste Messwert definiert immer die Elementarladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ja, jedes geladene Tröpfchen trägt genau eine Elementarladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nein, der größte Messwert ist immer die Elementarladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__ladungsquantelung-auswertung__06-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Für dasselbe Tröpfchen erhält man \(3{,}1\), \(3{,}2\) und \(3{,}3\), jeweils in \(10^{-19}\,\mathrm{C}\). Die Abweichungen liegen innerhalb der Messunsicherheit. Was ist eine passende Deutung?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Werte sind mit einer unveränderten Ladung vom Betrag \(2e\approx3{,}2\cdot10^{-19}\,\mathrm{C}\) vereinbar. Kleine Messabweichungen widerlegen die Ladungsquantelung nicht.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Messwerte streuen um einen mit \(2e\) vereinbaren Ladungsbetrag.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Ladungsquantelung ist damit widerlegt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Das Tröpfchen hat sicher Bruchteile eines Elektrons aufgenommen.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Elementarladung selbst hat sich zwischen den Messungen geändert.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Millikan-Versuch/07 Messunsicherheit und Modellgrenzen</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Warum soll die Luft zwischen den Kondensatorplatten möglichst ruhig sein?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die Reibung hängt von der Bewegung relativ zur Luft ab. Luftströmungen können das Tröpfchen zusätzlich mitführen und die Auswertung verfälschen.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Damit Luftströmungen die gemessene Tröpfchenbewegung nicht verfälschen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Gewichtskraft verschwindet</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Luft keinen Auftrieb mehr erzeugt</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit alle Tröpfchen dieselbe Ladung erhalten</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ein kleines Tröpfchen zeigt unregelmäßige Zitterbewegungen trotz ruhender Luft und konstanter Spannung. Welche Ursache passt zur Brownschen Bewegung?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Zufällige Stöße thermisch bewegter Luftmoleküle verursachen die Brownsche Bewegung. Ein konstantes äußeres Feld verhindert diese Schwankungen nicht.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Zufällige Stöße von Luftmolekülen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Regelmäßige Richtungswechsel der Gewichtskraft</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ein periodischer Wechsel des Vorzeichens der Elementarladung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ein zwangsläufiges Umpolen des Feldes durch die Bewegung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Die absolute Unsicherheit einer Zeitmessung bleibt gleich. Was geschieht mit der relativen Zeitunsicherheit, wenn eine doppelt so lange Durchlaufzeit gemessen wird?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Die relative Unsicherheit ist \(\Delta t/t\). Bei gleichem \(\Delta t\) und doppeltem \(t\) halbiert sie sich.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sie halbiert sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie verdoppelt sich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie bleibt gleich.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie wird genau null.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Was bewirken unabhängige Wiederholungsmessungen mit Mittelwertbildung bei gleichbleibenden Versuchsbedingungen typischerweise?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Unabhängige zufällige Abweichungen gleichen sich teilweise aus. Ein gemeinsamer systematischer Fehler, etwa eine falsche Skalenkalibrierung, bleibt bestehen.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sie verringern den Einfluss zufälliger Abweichungen auf den Mittelwert.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie beseitigen jede falsche Skalenkalibrierung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie machen jede einzelne Messung exakt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Sie verändern den tatsächlichen Wert der Elementarladung.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Die Messstrecke wird wegen einer falschen Skalenkalibrierung stets um 10 Prozent zu groß angesetzt. Die Zeitmessung ist korrekt. Wie wirkt sich das auf \(v=s/t\) aus?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei korrekt gemessener Zeit ist die berechnete Geschwindigkeit proportional zur angesetzten Strecke und deshalb ebenfalls um 10 Prozent zu groß.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Geschwindigkeit wird um 10 Prozent zu groß berechnet.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Geschwindigkeit wird um 10 Prozent zu klein berechnet.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Geschwindigkeit bleibt korrekt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nur das Vorzeichen der Geschwindigkeit wird falsch.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Bei konstanter Spannung wechselt ein Tröpfchen plötzlich zu einer anderen dauerhaften Geschwindigkeit. Radius und Luftbedingungen bleiben gleich. Welche Änderung kann das erklären?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Durch Aufnahme oder Abgabe eines Elektrons kann sich die Ladung ändern. Dadurch ändern sich elektrische Kraft und Endgeschwindigkeit.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Die Ladung des Tröpfchens hat sich geändert.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Elementarladung hat ihren Wert geändert.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Gewichtskraft hat allein durch das Erreichen einer Skalenmarke ihre Richtung gewechselt.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Die Reibung ist bei Bewegung durch die Luft dauerhaft verschwunden.</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Warum verwendet man möglichst schwer verdunstendes Öl?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Verdunstung verkleinert die Tröpfchen und verändert ihre Masse und Reibung. Schwer verdunstendes Öl hält diese Größen während der Messung näherungsweise konstant.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Damit Radius und Masse während der Messung möglichst konstant bleiben</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Elementarladung größer wird</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit keine Gewichtskraft wirkt</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Damit die Luft zwischen den Platten zu Vakuum wird</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Wo ist die Näherung \(E=U/d\) bei großen parallelen Kondensatorplatten am zuverlässigsten?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Weit von Rändern und Öffnungen ist das Feld zwischen den Platten näherungsweise homogen. An den Rändern treten Feldverzerrungen auf.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Zwischen den Platten, weit entfernt von Rändern und Öffnungen</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Unmittelbar an einer Plattenkante</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Direkt am Rand einer Öffnung in einer Platte</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Weit außerhalb des Kondensators</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Wann wird die Cunningham-Korrektur der Stokes-Reibung besonders wichtig?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Bei Radien in der Größenordnung der mittleren freien Weglänge der Luftmoleküle reicht das einfache Kontinuumsmodell nicht mehr aus. Die Cunningham-Korrektur berücksichtigt die verringerte Reibung.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Wenn der Radius mit der mittleren freien Weglänge der Luftmoleküle vergleichbar ist</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Wenn der Radius mit dem Plattenabstand vergleichbar ist</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nur wenn das Tröpfchen positiv geladen ist</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Nur wenn die Spannung gerade umgepolt wird</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>millikan-versuch__messunsicherheit-modellgrenzen__07-10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Strömungsbedingung setzt das einfache Stokes-Gesetz für die Bewegung einer kleinen Kugel voraus?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Das Stokes-Gesetz gilt für eine langsame, schleichende Strömung bei sehr kleiner Reynolds-Zahl. Starke Wirbel und Turbulenz passen nicht zu diesem Modell.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Die Antwort ist richtig.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Die Antwort ist teilweise richtig.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Die Antwort ist falsch.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Eine langsame, schleichende Strömung ohne Turbulenz</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Eine stark turbulente Strömung</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Eine Bewegung mit Überschallgeschwindigkeit</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Eine Bewegung ausschließlich im Vakuum</p>]]></text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+</quiz>

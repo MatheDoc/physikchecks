@@ -1,0 +1,10 @@
+# Millikan-Versuch - Kompetenzliste
+
+1. **Grundidee und historische Bedeutung** (`millikan-versuch__grundidee-historische-bedeutung`): Ich kann die Bestimmung der Elementarladung und den Nachweis der Ladungsquantelung als Ziele des Millikan-Versuchs nennen, die indirekte Ladungsmessung an Öltröpfchen erklären und das Ergebnis historisch einordnen.
+2. **Aufbau und Messgrößen** (`millikan-versuch__aufbau-messgroessen`): Ich kann die Funktionen der Bauteile beschreiben, reale Bewegung und Mikroskopbild unterscheiden sowie Feldstärke und Geschwindigkeit aus einfachen Messwerten bestimmen.
+3. **Kräfte am Öltröpfchen** (`millikan-versuch__kraefte-am-oeltroepfchen`): Ich kann Gewichts-, Auftriebs-, elektrische und Stokes-Reibungskraft zuordnen, ihre Richtungen bestimmen und einfache Abhängigkeiten ihrer Beträge erkennen.
+4. **Feldfreies Fallen und Schweben** (`millikan-versuch__feldfreies-fallen-schweben`): Ich kann die Kräftegleichgewichte beim gleichförmigen Fallen ohne Feld und beim Schweben unterscheiden, die Sinkgeschwindigkeit zur Radiusbestimmung nutzen und die Schwebebedingung zur Ladungsbestimmung anwenden.
+5. **Steige-Sink-Methode** (`millikan-versuch__steige-sink-methode`): Ich kann das Umpolen bei unverändertem Spannungsbetrag beschreiben, die Kräftegleichgewichte beim gleichförmigen Steigen und Sinken im Feld aufstellen und die Bedeutung von Summe und Differenz der Geschwindigkeitsbeträge für die Auswertung erkennen.
+6. **Ladungsquantelung und Auswertung** (`millikan-versuch__ladungsquantelung-auswertung`): Ich kann Tröpfchenladungen als ganzzahlige Vielfache der Elementarladung deuten, einfache Ladungen und Elektronenüberschüsse bestimmen und Ladungsreihen auf einen gemeinsamen Ladungsschritt untersuchen.
+7. **Messunsicherheit und Modellgrenzen** (`millikan-versuch__messunsicherheit-modellgrenzen`): Ich kann geeignete Messbedingungen auswählen, zufällige und systematische Einflüsse unterscheiden und die Bedeutung von Brownscher Bewegung, Verdunstung, Randfeldern und Cunningham-Korrektur erklären.
+

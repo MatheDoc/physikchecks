@@ -1,0 +1,1 @@
+https://www.leifiphysik.de/elektrizitaetslehre/ladungen-elektrisches-feld
