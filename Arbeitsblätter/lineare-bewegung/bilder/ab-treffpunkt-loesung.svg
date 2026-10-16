@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="590" viewBox="0 0 840 590" font-family="Arial, sans-serif" font-size="13">
+  <defs>
+    <pattern id="minor" x="80" y="20" width="70" height="20" patternUnits="userSpaceOnUse">
+      <path d="M70 0V20H0" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    </pattern>
+    <pattern id="major" x="80" y="20" width="70" height="40" patternUnits="userSpaceOnUse">
+      <path d="M70 0V40H0" fill="none" stroke="#b8b8b8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="840" height="590" fill="#fff"/>
+  <rect x="80" y="20" width="700" height="480" fill="url(#minor)"/>
+  <rect x="80" y="20" width="700" height="480" fill="url(#major)"/>
+  <path d="M80 20V500H780" fill="none" stroke="#000" stroke-width="2"/>
+  <g text-anchor="end">
+    <text x="72" y="504">0</text>
+    <text x="72" y="464">100</text>
+    <text x="72" y="424">200</text>
+    <text x="72" y="384">300</text>
+    <text x="72" y="344">400</text>
+    <text x="72" y="304">500</text>
+    <text x="72" y="264">600</text>
+    <text x="72" y="224">700</text>
+    <text x="72" y="184">800</text>
+    <text x="72" y="144">900</text>
+    <text x="72" y="104">1000</text>
+    <text x="72" y="64">1100</text>
+    <text x="72" y="24">1200</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="80" y="520">0</text>
+    <text x="150" y="520">1</text>
+    <text x="220" y="520">2</text>
+    <text x="290" y="520">3</text>
+    <text x="360" y="520">4</text>
+    <text x="430" y="520">5</text>
+    <text x="500" y="520">6</text>
+    <text x="570" y="520">7</text>
+    <text x="640" y="520">8</text>
+    <text x="710" y="520">9</text>
+    <text x="780" y="520">10</text>
+    <text x="430" y="555" font-size="15">Zeit t in min</text>
+    <text transform="translate(22 260) rotate(-90)" font-size="15">Ort x in m</text>
+  </g>
+  <polyline fill="none" stroke="#c62828" stroke-width="3" stroke-linejoin="round" points="80,500 500,20 780,20"/>
+  <polyline fill="none" stroke="#2e7d32" stroke-width="3" points="80,20 780,420"/>
+  <polyline fill="none" stroke="#ef6c00" stroke-width="3" points="220,500 780,20"/>
+  <g fill="#000">
+    <circle cx="360" cy="180" r="5"/>
+    <circle cx="500" cy="260" r="5"/>
+    <circle cx="780" cy="20" r="5"/>
+  </g>
+  <g font-size="15" font-weight="bold">
+    <text x="190" y="352" fill="#c62828" transform="rotate(-49 190 352)">Anna</text>
+    <text x="640" y="326" fill="#2e7d32" transform="rotate(30 640 326)">Ben</text>
+    <text x="300" y="420" fill="#ef6c00" transform="rotate(-41 300 420)">Clara</text>
+  </g>
+</svg>

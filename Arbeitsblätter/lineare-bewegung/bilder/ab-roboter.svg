@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="500" viewBox="0 0 820 500" font-family="Arial, sans-serif" font-size="13">
+  <defs>
+    <pattern id="minor" x="80" y="20" width="70" height="25" patternUnits="userSpaceOnUse">
+      <path d="M70 0V25H0" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    </pattern>
+    <pattern id="major" x="80" y="20" width="70" height="50" patternUnits="userSpaceOnUse">
+      <path d="M70 0V50H0" fill="none" stroke="#b8b8b8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="820" height="500" fill="#fff"/>
+  <rect x="80" y="20" width="700" height="400" fill="url(#minor)"/>
+  <rect x="80" y="20" width="700" height="400" fill="url(#major)"/>
+  <path d="M80 20V420H780" fill="none" stroke="#000" stroke-width="2"/>
+  <g text-anchor="end">
+    <text x="72" y="424">0</text>
+    <text x="72" y="374">20</text>
+    <text x="72" y="324">40</text>
+    <text x="72" y="274">60</text>
+    <text x="72" y="224">80</text>
+    <text x="72" y="174">100</text>
+    <text x="72" y="124">120</text>
+    <text x="72" y="74">140</text>
+    <text x="72" y="24">160</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="80" y="440">0</text>
+    <text x="150" y="440">10</text>
+    <text x="220" y="440">20</text>
+    <text x="290" y="440">30</text>
+    <text x="360" y="440">40</text>
+    <text x="430" y="440">50</text>
+    <text x="500" y="440">60</text>
+    <text x="570" y="440">70</text>
+    <text x="640" y="440">80</text>
+    <text x="710" y="440">90</text>
+    <text x="780" y="440">100</text>
+    <text x="430" y="475" font-size="15">Zeit t in s</text>
+    <text transform="translate(22 220) rotate(-90)" font-size="15">Ort x in m</text>
+  </g>
+  <polyline fill="none" stroke="#1565c0" stroke-width="3" stroke-linejoin="round"
+    points="80,420 220,320 290,320 430,170 444,169.25 458,167 472,163.25 486,158 500,151.25 514,143 528,133.25 542,122 556,109.25 570,95 710,295"/>
+  <g fill="#1565c0">
+    <circle cx="80" cy="420" r="4"/>
+    <circle cx="220" cy="320" r="4"/>
+    <circle cx="290" cy="320" r="4"/>
+    <circle cx="430" cy="170" r="4"/>
+    <circle cx="570" cy="95" r="4"/>
+    <circle cx="710" cy="295" r="4"/>
+  </g>
+</svg>

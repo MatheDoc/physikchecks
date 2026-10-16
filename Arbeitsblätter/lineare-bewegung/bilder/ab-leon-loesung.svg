@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="520" viewBox="0 0 840 520" font-family="Arial, sans-serif" font-size="13">
+  <defs>
+    <pattern id="minor" x="80" y="20" width="30" height="20" patternUnits="userSpaceOnUse">
+      <path d="M30 0V20H0" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    </pattern>
+    <pattern id="major" x="80" y="20" width="60" height="40" patternUnits="userSpaceOnUse">
+      <path d="M60 0V40H0" fill="none" stroke="#b8b8b8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="840" height="520" fill="#fff"/>
+  <rect x="80" y="20" width="720" height="400" fill="url(#minor)"/>
+  <rect x="80" y="20" width="720" height="400" fill="url(#major)"/>
+  <path d="M80 20V420H800" fill="none" stroke="#000" stroke-width="2"/>
+  <g text-anchor="end">
+    <text x="72" y="424">0</text>
+    <text x="72" y="384">50</text>
+    <text x="72" y="344">100</text>
+    <text x="72" y="304">150</text>
+    <text x="72" y="264">200</text>
+    <text x="72" y="224">250</text>
+    <text x="72" y="184">300</text>
+    <text x="72" y="144">350</text>
+    <text x="72" y="104">400</text>
+    <text x="72" y="64">450</text>
+    <text x="72" y="24">500</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="80" y="440">0</text>
+    <text x="140" y="440">20</text>
+    <text x="200" y="440">40</text>
+    <text x="260" y="440">60</text>
+    <text x="320" y="440">80</text>
+    <text x="380" y="440">100</text>
+    <text x="440" y="440">120</text>
+    <text x="500" y="440">140</text>
+    <text x="560" y="440">160</text>
+    <text x="620" y="440">180</text>
+    <text x="680" y="440">200</text>
+    <text x="740" y="440">220</text>
+    <text x="800" y="440">240</text>
+    <text x="440" y="475" font-size="15">Zeit t in s</text>
+    <text transform="translate(22 220) rotate(-90)" font-size="15">Ort x in m</text>
+  </g>
+  <line x1="80" y1="180" x2="800" y2="180" stroke="#888" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <polyline fill="none" stroke="#1565c0" stroke-width="3" stroke-linejoin="round" points="80,340 260,100 350,100 500,260 560,260 740,20"/>
+  <g fill="#1565c0">
+    <circle cx="80" cy="340" r="4"/>
+    <circle cx="260" cy="100" r="4"/>
+    <circle cx="350" cy="100" r="4"/>
+    <circle cx="500" cy="260" r="4"/>
+    <circle cx="560" cy="260" r="4"/>
+    <circle cx="740" cy="20" r="4"/>
+  </g>
+  <g fill="#c62828">
+    <circle cx="200" cy="180" r="5"/>
+    <circle cx="425" cy="180" r="5"/>
+    <circle cx="620" cy="180" r="5"/>
+  </g>
+</svg>
