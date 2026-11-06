@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="500" viewBox="0 0 820 500" font-family="Arial, sans-serif" font-size="13">
+  <defs>
+    <pattern id="minor" x="80" y="20" width="50" height="25" patternUnits="userSpaceOnUse">
+      <path d="M50 0V25H0" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    </pattern>
+    <pattern id="major" x="80" y="20" width="100" height="50" patternUnits="userSpaceOnUse">
+      <path d="M100 0V50H0" fill="none" stroke="#b8b8b8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="820" height="500" fill="#fff"/>
+  <rect x="80" y="20" width="700" height="400" fill="url(#minor)"/>
+  <rect x="80" y="20" width="700" height="400" fill="url(#major)"/>
+  <path d="M80 20V420H780" fill="none" stroke="#000" stroke-width="2"/>
+  <g text-anchor="end">
+    <text x="72" y="424">0</text>
+    <text x="72" y="374">2</text>
+    <text x="72" y="324">4</text>
+    <text x="72" y="274">6</text>
+    <text x="72" y="224">8</text>
+    <text x="72" y="174">10</text>
+    <text x="72" y="124">12</text>
+    <text x="72" y="74">14</text>
+    <text x="72" y="24">16</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="80" y="440">0</text>
+    <text x="180" y="440">10</text>
+    <text x="280" y="440">20</text>
+    <text x="380" y="440">30</text>
+    <text x="480" y="440">40</text>
+    <text x="580" y="440">50</text>
+    <text x="680" y="440">60</text>
+    <text x="780" y="440">70</text>
+    <text x="430" y="475" font-size="15">Zeit t in min</text>
+    <text transform="translate(22 220) rotate(-90)" font-size="15">Ort x in km</text>
+  </g>
+  <polyline fill="none" stroke="#1565c0" stroke-width="3" stroke-linejoin="round"
+    points="80,420 280,270 380,270 580,70 780,220"/>
+  <g fill="#1565c0">
+    <circle cx="80" cy="420" r="4"/>
+    <circle cx="280" cy="270" r="4"/>
+    <circle cx="380" cy="270" r="4"/>
+    <circle cx="580" cy="70" r="4"/>
+    <circle cx="780" cy="220" r="4"/>
+  </g>
+</svg>

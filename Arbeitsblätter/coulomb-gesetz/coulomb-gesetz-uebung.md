@@ -30,7 +30,7 @@ $$\frac{1}{4\pi\varepsilon_0} \cdot \frac{|Q_\text{Kern}| \cdot e}{r^2} = m_\tex
 
 **b)** Berechnet die Bahngeschwindigkeit $v$ des Elektrons.
 
-**c)** In einem anderen Zustand des Heliumions kreist das Elektron nur mit der **halben** Geschwindigkeit aus b). Stellt die Gleichung oben nach $r$ um und berechnet den Radius dieser Bahn. Um welchen Faktor ist er größer als in a)? Begründet den Faktor auch ohne Zahlen.
+**c)** In einem anderen Zustand des Heliumions (d.h. es liegt auch eine andere Coulomb-Kraft vor) kreist das Elektron nur mit der **halben** Geschwindigkeit aus b). Stellt die Gleichung oben nach $r$ um und berechnet den Radius dieser Bahn. Um welchen Faktor ist er größer als in a)? Begründet den Faktor auch ohne Zahlen.
 
 **d)** Bei einem unbekannten Ion mit **einem** Elektron kreist das Elektron mit $v = 6{,}57 \cdot 10^{6}\ \dfrac{\text{m}}{\text{s}}$ auf einer Bahn mit $r = 1{,}76 \cdot 10^{-11}$ m. Berechnet zuerst die Zentripetalkraft und dann die Ladung $Q_\text{Kern}$ des Kerns. Wie viele Protonen hat der Kern? Um welches Element handelt es sich?
 

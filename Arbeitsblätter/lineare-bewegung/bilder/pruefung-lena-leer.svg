@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="470" viewBox="0 0 740 470" font-family="Arial, sans-serif" font-size="13">
+  <defs>
+    <pattern id="minor" x="80" y="20" width="20" height="30" patternUnits="userSpaceOnUse">
+      <path d="M20 0V30H0" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    </pattern>
+    <pattern id="major" x="80" y="20" width="100" height="60" patternUnits="userSpaceOnUse">
+      <path d="M100 0V60H0" fill="none" stroke="#b8b8b8" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="740" height="470" fill="#fff"/>
+  <rect x="80" y="20" width="600" height="360" fill="url(#minor)"/>
+  <rect x="80" y="20" width="600" height="360" fill="url(#major)"/>
+  <path d="M80 20V380H680" fill="none" stroke="#000" stroke-width="2"/>
+  <g text-anchor="end">
+    <text x="72" y="384">0</text>
+    <text x="72" y="324">500</text>
+    <text x="72" y="264">1000</text>
+    <text x="72" y="204">1500</text>
+    <text x="72" y="144">2000</text>
+    <text x="72" y="84">2500</text>
+    <text x="72" y="24">3000</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="80" y="400">0</text>
+    <text x="180" y="400">5</text>
+    <text x="280" y="400">10</text>
+    <text x="380" y="400">15</text>
+    <text x="480" y="400">20</text>
+    <text x="580" y="400">25</text>
+    <text x="680" y="400">30</text>
+    <text x="380" y="435" font-size="15">Zeit t in min</text>
+    <text transform="translate(22 200) rotate(-90)" font-size="15">Ort x in m</text>
+  </g>
+</svg>
